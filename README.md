@@ -1,1 +1,1 @@
-# MNIST-Data-Model
+# Fashion MNIST-Data-Model
